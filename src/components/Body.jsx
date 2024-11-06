@@ -66,6 +66,7 @@ const Body = () => {
           src="https://cdn.pixabay.com/video/2022/10/23/136139-764371523_large.mp4"
           autoPlay
           loop
+          muted
           preload="auto"
           className='object-cover w-full h-full'
         />
