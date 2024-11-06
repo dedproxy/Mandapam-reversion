@@ -63,7 +63,7 @@ const Body = () => {
       {/* Video Section */}
       <div className='w-full h-full'>
         <video
-          src="/public/wedding.mp4"
+          src="https://cdn.pixabay.com/video/2022/10/23/136139-764371523_large.mp4"
           autoPlay
           loop
           preload="auto"
