@@ -78,7 +78,7 @@ const Body = () => {
           Search Your Wedding Place
         </h1>
         <p className={`mt-5 text-lg font-bold text-white transition-opacity duration-500 ${visible ? 'opacity-100' : 'opacity-0'}`}>
-          The Garden of Your Wedding Dreams......
+          The Wedding You have Always Imagined....
         </p>
       </div>
 
